@@ -1,0 +1,1 @@
+2023-06-12 22:55:55,514 ｜ ERROR ｜ milvus_helpers.py ｜ __init__ ｜ 16 ｜ Failed to connect Milvus: <BaseException: (code=2, message=Fail connecting to server on 127.0.0.1:19530. Timeout)>
